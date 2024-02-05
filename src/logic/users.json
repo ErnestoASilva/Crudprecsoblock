@@ -1,0 +1,20 @@
+[
+    {
+        "appellido": "Silva",
+        "fecha": "2024-02-22",
+        "idUser": "user_1",
+        "nombre": "Ernesto",
+        "password": "docente",
+        "tipoUser": "docente",
+        "usuario": "docente"
+    },
+    {
+        "appellido": "Ochoa",
+        "fecha": "2024-02-22",
+        "idUser": "user_2",
+        "nombre": "Alejandro",
+        "password": "alumno",
+        "tipoUser": "alumno",
+        "usuario": "alumno"
+    }
+]
